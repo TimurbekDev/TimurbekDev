@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/timurbek-saburov/)">
+  <a href="https://www.linkedin.com/in/timurbek-saburov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
