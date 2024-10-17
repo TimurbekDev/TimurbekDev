@@ -32,5 +32,6 @@
 
 ### :fire: My Stats :
 <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=timurbekDev" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurbekDev&layout=compact&theme=vision-friendly-dark"/>
 </div>
