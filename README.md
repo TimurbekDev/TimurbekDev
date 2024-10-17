@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="https://www.linkedin.com/in/timurbek-saburov/" target="_blank">
+  <a href="https://www.linkedin.com/in/timurbek-saburov/" target="_parent">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/timurbek_saburov/" target="_blank">
