@@ -15,8 +15,6 @@
 <img src="https://komarev.com/ghpvc/?username=timurbekDev&style=flat-square&color=blue" alt=""/>
 </div>
 
-##
-
 ### :hammer_and_wrench: Here’s a list of languages , frameworks, tools, databases, and other relevant tools wich I know :
 <div>
   <div align="center">
@@ -26,7 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </div>
 </div>
-
+##
 <div align="center">
     <p>Frameworks : </p>
     ExpressJs<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="ExpressJs" alt="ExpressJs" width="40" height="40" style="color:white"/>&nbsp;
