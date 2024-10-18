@@ -29,9 +29,9 @@
 
 <div align="center">
     <p>Frameworks : </p>
-    <p>ExpressJs</p><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="ExpressJs" alt="ExpressJs" width="40" height="40" style="color:white"/>&nbsp;
-    <p>NestJs</p><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"  title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
-    <p>Fastify</p><img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg"  title="Fastify" alt="Fastify" width="40" height="40" style="color:white"/>&nbsp;
+    ExpressJs<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="ExpressJs" alt="ExpressJs" width="40" height="40" style="color:white"/>&nbsp;
+    NestJs<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"  title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
+    Fastify<img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg"  title="Fastify" alt="Fastify" width="40" height="40" style="color:white"/>&nbsp;
 </div>
 
 
