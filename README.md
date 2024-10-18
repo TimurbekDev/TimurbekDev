@@ -23,7 +23,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </div>
 </div>
-<hr>
 <div align="center">
     <p>Frameworks : </p>
     ExpressJs<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="ExpressJs" alt="ExpressJs" width="40" height="40" style="color:white"/>&nbsp;
@@ -31,6 +30,14 @@
     Fastify<img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg"  title="Fastify" alt="Fastify" width="40" height="40" style="color:white"/>&nbsp;
     Asp.Net Core<img src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png"  title="Asp.NetCore" alt="Asp.NetCore" width="40" height="40" style="color:white"/>&nbsp;
 </div>
+<div align="center">
+    <p>Databases : </p>
+    PostgreSql<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSql" alt="PostgreSql" width="40" height="40" style="color:white"/>&nbsp;
+    MySql<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
+    MongoDb<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="MongoDb" alt="MongoDb" width="40" height="40" style="color:white"/>&nbsp;
+    Redis<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"  title="Redis" alt="Redis" width="40" height="40" style="color:white"/>&nbsp;
+</div>
+<hr>
 
 
 ### :fire: My Stats :
