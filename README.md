@@ -19,7 +19,7 @@
 
 ### :hammer_and_wrench: Here’s a list of languages , frameworks, tools, databases, and other relevant tools wich I know :
 <div>
-  <div>
+  <div justify="center">
     ### :hammer_and_wrench:Programming Languages : 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScirpt" alt="JavaScirpt" width="45" height="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="TypesScirpt" alt="TypesScirpt" width="45" height="45"/>&nbsp;
