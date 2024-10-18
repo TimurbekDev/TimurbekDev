@@ -32,6 +32,7 @@
     ExpressJs<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="ExpressJs" alt="ExpressJs" width="40" height="40" style="color:white"/>&nbsp;
     NestJs<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"  title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
     Fastify<img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg"  title="Fastify" alt="Fastify" width="40" height="40" style="color:white"/>&nbsp;
+    Asp.Net Core<img src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png"  title="Asp.NetCore" alt="Asp.NetCore" width="40" height="40" style="color:white"/>&nbsp;
 </div>
 
 
