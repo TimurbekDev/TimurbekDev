@@ -25,12 +25,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="TypesScirpt" alt="TypesScirpt" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </div>
-  <div align="center">
+</div>
+
+<div align="center">
     <p>Frameworks : </p>
     <p>ExpressJs</p><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="ExpressJs" alt="ExpressJs" width="40" height="40" style="color:white"/>&nbsp;
     <p>NestJs</p><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"  title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
     <p>Fastify</p><img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg"  title="Fastify" alt="Fastify" width="40" height="40" style="color:white"/>&nbsp;
-  </div>
 </div>
 
 
