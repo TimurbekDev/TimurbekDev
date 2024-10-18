@@ -9,9 +9,7 @@
   <a href="https://www.instagram.com/timurbek_saburov/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=timurbekDev&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=timurbekDev&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### :hammer_and_wrench: Here’s a list of languages , frameworks, tools, databases, and other relevant tools wich I know :
