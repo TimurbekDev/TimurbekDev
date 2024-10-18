@@ -24,14 +24,14 @@
   </div>
 </div>
 <div align="center">
-    <p>Frameworks : </p>
+    <h1>Frameworks : </h1>
     ExpressJs<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="ExpressJs" alt="ExpressJs" width="40" height="40" style="color:white"/>&nbsp;
     NestJs<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"  title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
     Fastify<img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg"  title="Fastify" alt="Fastify" width="40" height="40" style="color:white"/>&nbsp;
     Asp.Net Core<img src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png"  title="Asp.NetCore" alt="Asp.NetCore" width="40" height="40" style="color:white"/>&nbsp;
 </div>
 <div align="center">
-    <p>Databases : </p>
+    <h1>Databases : </h1>
     PostgreSql<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSql" alt="PostgreSql" width="40" height="40" style="color:white"/>&nbsp;
     MySql<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
     MongoDb<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="MongoDb" alt="MongoDb" width="40" height="40" style="color:white"/>&nbsp;
