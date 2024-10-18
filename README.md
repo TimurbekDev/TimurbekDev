@@ -24,7 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </div>
 </div>
----
+<hr>
 <div align="center">
     <p>Frameworks : </p>
     ExpressJs<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="ExpressJs" alt="ExpressJs" width="40" height="40" style="color:white"/>&nbsp;
