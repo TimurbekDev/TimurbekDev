@@ -5,6 +5,9 @@
   <a href="https://linkedin.com/in/timurbek-saburov">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://timurbek.uz" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="https://instagram.com/timurbek_saburov">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
