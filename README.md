@@ -66,7 +66,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=timurbekdev&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timurbekdev&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
